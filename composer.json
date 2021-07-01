@@ -1,0 +1,21 @@
+{
+    "name": "cyh/set_arr",
+    "type": "library",
+    "description": "数组处理",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SetArr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anyuah",
+            "email": "809355897@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    }
+}
